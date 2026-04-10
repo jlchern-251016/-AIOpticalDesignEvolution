@@ -40,7 +40,7 @@ Each PDF includes a Key Reference Index (R1–R21+) with pillar tagging and clic
 | File | Description |
 |------|-------------|
 | `test prompt list_local LLMs_general_v1.pdf` | test prompt list for local LLMs, (LinkedIn post: March 26, 2026) |
-| `Test prompt list_local LLMs_Gemma4_v1.pdf` | test promot list for Gemma4, (LinkedIn post: April 9, 2026) |
+| `Test prompt list_local LLMs_Gemma4_v1.pdf` | test promot list for Gemma4, (LinkedIn post: April 3, 2026) |
 
 
 ---
