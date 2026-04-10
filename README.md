@@ -29,7 +29,7 @@ feedback ecosystem. Pillar 4 (湧知) is proposed here as the missing closure of
 
 | File | Description |
 |------|-------------|
-| `NCKU_talk_slides.pdf` | Original colloquium deck (NCKU Physics, May 29 2025) (see LinkedIn post in May, 2029|
+| `NCKU_talk_slides.pdf` | Original colloquium deck (NCKU Physics, May 29 2025) (see LinkedIn post in May, 2025|
 | `AIOptical_Design_Evolution_fourpillars_v13.pdf` | Four-Pillar summary, v13 (LinedIn post: March 5, 2026, corrected reference link) |
 | `AIOptical_Design_Evolution_Fourpillars_v14.4.pdf` | updated, v14.4 (LinkedIn post: April 9, 2026) — adds the **Classical-Asymptote Test** for quantum photonics |
 
