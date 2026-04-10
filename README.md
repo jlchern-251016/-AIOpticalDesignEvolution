@@ -60,6 +60,7 @@ Each PDF includes a Key Reference Index (R1–R21+) with pillar tagging and clic
 1. Start with the **v14.4 PDF** — it is the current snapshot.
 2. Use the Cross-Pillar Linkage Map as the index into the reference list.
 3. Treat every table as provisional: entries are updated as the field moves.
+4. Check test Prompt lists for LLM test
 
 ---
 
