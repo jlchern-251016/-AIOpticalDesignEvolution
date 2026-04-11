@@ -4,8 +4,11 @@
 The documents here are living artifacts of an ongoing inquiry into how AI is reshaping optical
 design. They are shared openly so others can trace, challenge, and build on the exploration.
 
-> Prepared in collaboration with Claude (Anthropic).
-> Origin talk: **NCKU Physics Colloquium, May 29, 2025**.
+> Prepared with Claude (Anthropic), Gemini/Gemma/NotekookLM (Google), and ChatGpt (OpenAI).
+> 
+> tests also over LM Studio, AnthingLLM, and Ollama, ...
+> 
+> An early open work - talk at **NCKU Physics Department, Tainan, Taiwan, May 29, 2025**. (see LinkedIn post)
 
 ---
 
